@@ -17,3 +17,6 @@ After this go to the ip address of the machine that the docker-compose for Zabbi
 
 # Customization of Docker Compose File
 In the yaml file I increased the memory reservations from 256M to 512M and changed the stop_grace_period from 30 seconds to 60 seconds. 
+
+# Configuration Yaml File
+https://github.com/liamb8/sys265/blob/master/docker-compose_v3_ubuntu_mysql_latest.yaml
